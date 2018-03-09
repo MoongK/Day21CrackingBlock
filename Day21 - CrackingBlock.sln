@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21 - CrackingBlock", "Day21 - CrackingBlock.csproj", "{613BE1D5-BC58-91D5-9376-3D2CADB86559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21 - CrackingBlock.Plugins", "Day21 - CrackingBlock.Plugins.csproj", "{A8894373-ACF9-EE3D-323D-E38000BC8539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21 - CrackingBlock.Editor.Plugins", "Day21 - CrackingBlock.Editor.Plugins.csproj", "{39CD822A-3459-FD11-A12C-7EFB9B6CA0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613BE1D5-BC58-91D5-9376-3D2CADB86559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613BE1D5-BC58-91D5-9376-3D2CADB86559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613BE1D5-BC58-91D5-9376-3D2CADB86559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613BE1D5-BC58-91D5-9376-3D2CADB86559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8894373-ACF9-EE3D-323D-E38000BC8539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8894373-ACF9-EE3D-323D-E38000BC8539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8894373-ACF9-EE3D-323D-E38000BC8539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8894373-ACF9-EE3D-323D-E38000BC8539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CD822A-3459-FD11-A12C-7EFB9B6CA0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CD822A-3459-FD11-A12C-7EFB9B6CA0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CD822A-3459-FD11-A12C-7EFB9B6CA0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CD822A-3459-FD11-A12C-7EFB9B6CA0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
